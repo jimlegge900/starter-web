@@ -16,3 +16,7 @@ As stated above, themain pupose is to provide simple examples for got training d
 This is a simple web project.  Deployment can be on any web server or even local file system
 
 ## How To Contribute
+
+## Copyright
+
+Git.training
