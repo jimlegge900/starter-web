@@ -9,8 +9,10 @@ This is an examp,e to show diffent parts of the git repo
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+As stated above, themain pupose is to provide simple examples for got training demos.
 
 ## Deployment
+This is a simple web project.  Deployment can be on any web server or even local file system
 
 ## How To Contribute
